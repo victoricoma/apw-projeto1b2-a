@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Isabella Matos do Nascimento</title>
+</head>
+
+<body>
+    <h1>Isabella Matos do Nascimento</h1>
+    <h4>Deus me proteja de mim mesma</h4>
+    <section>
+        <p>
+            Nascida em Matão, em 2008, estudo na Etec Sylvio Mattos de Carvalho, gosto de música pop, amo assistir filmes, gosto de viajar, sair com os amigos, defender diva pop no twitter, e quero cursar psicologia.
+            Eu amo tudo relacionado a cinema e música, meu sonho é assistir um musical, ou ir em algum show de meu cantor e cantora que eu adimiro
+           
+        </p>
+    </section>
+    <section>
+        <strong>Comida Favorita: </strong> Comida Japonesa
+        <strong>Série de TV: </strong> Euphoria
+        <strong>Filme: </strong> AfterSun
+        <strong>Livro: </strong> Os sete maridos de Evelyn Hugo
+        <strong>Música: </strong> Did You Know That There's a Tunnel Under Ocean Blvd
+        <strong>Ídolo e Inspiração: </strong> Ariana Grande
+
+    </section>
+</body>
+</html>
